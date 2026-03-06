@@ -1,0 +1,7 @@
+{
+  "name": "SERHANT.Title REA Smart Transaction ONE - Buyer",
+  "description": "A premium, white-label real estate transaction and post-closing ownership protection platform branded for SERHANT.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
